@@ -1,8 +1,13 @@
-###
+<!--
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=JunHyung%20Park&fontSize=70)
+
+
+
+
 ![Junhyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=highandlight&show_icons=true&theme=radical)
 
 
-
+--!>
 
 <!--
 **HighandLight/HighandLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
